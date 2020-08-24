@@ -1,0 +1,13 @@
+
+#mapContainer{
+  width: 700px;
+  height: 700px;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+
+}
+
+.posto_name{
+  font: bold;
+}
